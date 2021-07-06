@@ -2,7 +2,7 @@
 
 ## Descrição
 
-Projeto desenvolvido junto com o professor Douglas Morais em aula da Gama Academy do programa Hiring Coders. Esse projeto foi desenvolvido com a finalidade de entender a aplicar as metodologias BEM e Atomic Design em uma página web com o tema Star Wars.
+Projeto desenvolvido junto com o professor Douglas Morais em aula sobre Boas Práticas de Desenvolvimento da Gama Academy do programa Hiring Coders. Esse projeto foi desenvolvido com a finalidade de entender a aplicar as metodologias BEM e Atomic Design em uma página web com o tema Star Wars.
 
 ## Template Node FullJS
 
