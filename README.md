@@ -26,5 +26,3 @@ Para iniciar em modo de desenvolvimento:
 Para instalar o node [clique aqui](https://nodejs.org/en/)
 
 Veja o projeto online [clique aqui](https://gama-academy-boas-praticas-starwars.vercel.app/)
-
-## Professor Douglas Morais
